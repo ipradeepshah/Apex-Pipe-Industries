@@ -1,0 +1,50 @@
+# *
+User-agent: *
+Allow: /
+
+# Googlebot
+User-agent: Googlebot
+Allow: /
+
+# Bingbot
+User-agent: Bingbot
+Allow: /
+
+# Slurp
+User-agent: Slurp
+Allow: /
+
+# DuckDuckBot
+User-agent: DuckDuckBot
+Allow: /
+
+# Baiduspider
+User-agent: Baiduspider
+Allow: /
+
+# YandexBot
+User-agent: YandexBot
+Allow: /
+
+# Sogou
+User-agent: Sogou
+Allow: /
+
+# Exabot
+User-agent: Exabot
+Allow: /
+
+# ia_archiver
+User-agent: ia_archiver
+Allow: /
+
+# Host
+Host: https://www.pradeepshah.com.np
+
+# Sitemaps
+Sitemap: https://www.pradeepshah.com.np/sitemap.xml
+Sitemap: https://www.pradeepshah.com.np/sitemap-0.xml
+Sitemap: https://www.pradeepshah.com.np/sitemap-1.xml
+Sitemap: https://www.pradeepshah.com.np/sitemap-2.xml
+Sitemap: https://www.pradeepshah.com.np/sitemap-3.xml
+Sitemap: https://www.pradeepshah.com.np/sitemap-4.xml
