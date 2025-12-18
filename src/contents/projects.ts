@@ -7,7 +7,7 @@ export const projects: Project[] = [
         title: 'Coupler',
         description:'Best Quality',
         technologies: [ '50mm', '75mm', '110mm', '160mm'],
-        image: '/projects/Coupler.png',
+        image: '/projects/coupler.png',
       },
       
       {
@@ -26,7 +26,7 @@ export const projects: Project[] = [
         title: 'Metal Clamp',
         description: 'Best Quality',
         technologies: ['50mm', '75mm', '110mm', '160mm'],
-        image: '/projects/MEtal Clamp.png',
+        image: '/projects/Metal Clamp.png',
       },
       {
         title: 'Bend 87.5° with Door',
