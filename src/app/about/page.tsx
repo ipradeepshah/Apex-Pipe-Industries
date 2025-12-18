@@ -62,7 +62,7 @@ export default function About() {
             {...cardHover}
           >
             <Image
-              src="/projects/sample-2.png"
+              src="/projects/Sample-2.png"
               width={6500}
               height={5000}
               alt=""
@@ -76,7 +76,7 @@ export default function About() {
             {...cardHover}
           >
             <Image
-              src="/projects/sample-3.png"
+              src="/projects/Sample-3.png"
               width={6500}
               height={5000}
               alt=""
